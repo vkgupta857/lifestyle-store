@@ -13,7 +13,7 @@ if (isset($_SESSION['email'])) {
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Welcome | Life Style Store</title>
         <!-- Bootstrap Core CSS -->
-        <link href="css/bootstrap.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
         <link href="css/style.css" rel="stylesheet">
         <!-- jQuery -->
