@@ -1,2 +1,2 @@
-# lifestyle-store
-This is a sample of ECom website.
+# LifeStyle Store
+An Ecom website built using HTML, CSS & Bootstrap framework and PHP at backend with MySQL Database.
